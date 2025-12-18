@@ -3,6 +3,7 @@
 
 Welcome to the **SQL Advent Calendar**, a 24-day challenge designed to strengthen your SQL fundamentals through fun, progressive, interview-oriented problems.
 Each “day” introduces a new concept—perfect for revision, interview prep, and building daily consistency.
+https://www.interviewmaster.ai/advent
 
 ---
 
